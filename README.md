@@ -8,3 +8,5 @@
   	random_rgb_to_gray
   	random_patch_gaussian
 - this submission AP score is
+- 
+![apscore](./apscore1st.png)
